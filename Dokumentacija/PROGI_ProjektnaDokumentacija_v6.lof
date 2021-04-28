@@ -1,0 +1,37 @@
+\babel@toc {croatian}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Prikaz postojeće aplikacije HCK\relax }}{5}{figure.caption.2}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Ikona spasioca\relax }}{6}{figure.caption.3}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Ikona voditelja spasioca\relax }}{7}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ikona dispečera\relax }}{7}{figure.caption.5}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Dijagram obrasca uporabe, funkcionalnost korisnika i administratora\relax }}{24}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Dijagram obrasca uporabe, funkcionalnost spasioca\relax }}{24}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Dijagram obrasca uporabe, funkcionalnost dispečera\relax }}{25}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sekvencijski dijagram za UC15\relax }}{26}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Sekvencijski dijagram za UC24\relax }}{27}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sekvencijski dijagram za UC27\relax }}{28}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Dijagram baze podataka\relax }}{33}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Prikaz klase AplicationController\relax }}{34}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Prikaz klasa servisa te klasa vezanih uz njihovu implementaciju\relax }}{35}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Prikaz klasa Entiteta koji su apstraktni prikazi podataka u bazi podataka\relax }}{36}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Prikaz dijagrama stanja\relax }}{38}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Prikaz dijagrama aktivnosti za javljanje spasioca na akciju\relax }}{39}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Prikaz dijagrama aktivnosti za stvaranje nove akcije spašavanja\relax }}{40}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Prikaz dijagrama komponenti\relax }}{41}{figure.caption.20}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Prikaz koda ispitivanja UC1\relax }}{44}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Prikaz koda ispitivanja \textbf {UC4} s kredencijama koje nisu potvrđene od strane admina\relax }}{45}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Prikaz koda ispitivanja \textbf {UC2} i \textbf {UC3}\relax }}{46}{figure.caption.23}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Prikaz koda ispitivanja \textbf {UC4, UC5} i \textbf {UC6}\relax }}{47}{figure.caption.24}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Prikaz koda ispitivanja \textbf {UC7}\relax }}{48}{figure.caption.25}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Prikaz koda ispitivanja navedenih obrazaca uporabe\relax }}{50}{figure.caption.26}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Prikaz Selenium IDE kvalitetu testova\relax }}{51}{figure.caption.27}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Dijagram razmještaja komponenti\relax }}{52}{figure.caption.28}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces master\relax }}{66}{figure.caption.32}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces devdoc\relax }}{67}{figure.caption.33}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces develop\relax }}{68}{figure.caption.34}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces baza\relax }}{69}{figure.caption.35}%

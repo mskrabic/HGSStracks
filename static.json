@@ -1,0 +1,7 @@
+{
+  "root": "Izvorni kod/frontend/hgsstracks/build/",
+  "clean_urls": false,
+  "routes": {
+    "/**": "index.html"
+  }
+}
